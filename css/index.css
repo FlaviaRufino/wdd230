@@ -14,17 +14,32 @@ body{
     border-radius: 1rem;
 }
 
-.profile-picture {
-    position: left;
-    right: 5%;
-    box-shadow: 3px 5px 32px 8px rgba(0,0,0,0.36);
+h1 {
+    padding: 0.5em;
+    color: white;
+    margin-bottom: 0;
 }
 
-.main {
+header h2 {
+    color:white;
+    padding: 0.5em;
+    margin-top: -20px;
+}
+
+img {
+    box-shadow: 0 0 10px 0 gray;
+}
+
+main {
     padding: 1rem;
 }
 
-.footer {
+p {
+    padding: 1em;
+    text-align: left;
+  }
+
+footer {
     background-color: #ecab49;
     color: #ffffff;
     text-align: center;
@@ -33,10 +48,7 @@ body{
     font-size: .9rem;
 }
 
-.footer span {
-    text-decoration: underline;
-}
-
-.last-updated {
-    color: #11e1d1;
+footer p {
+    text-align: center;
+    padding: 10px;
 }
