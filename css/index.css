@@ -1,3 +1,7 @@
+@media only screen and (max-device-width: 700px) {
+/* .menu { width:400px; } */
+}
+
 body{
     margin: .5rem;
     padding: .5rem;
