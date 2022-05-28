@@ -1,7 +1,7 @@
 @media only screen and (min-width: 400px) and (max-width: 700px) {
     .header-box {
         display: block;
-        text-align: center;
+        text-align: left;
     }
 
 #content{
