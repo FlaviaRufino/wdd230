@@ -1,0 +1,110 @@
+/* Reset some default browser styles */
+html, body, h1, h2, h3, ul, li, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global Styles */
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0; /* Background color for the entire page */
+    color: #333; /* Default text color */
+    line-height: 1.6; /* Improved line height for readability */
+  }
+  
+  .container {
+    max-width: 960px; /* Set a maximum width for content */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add some spacing around the content */
+  }
+  
+  /* Header Styles */
+  header {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .profile {
+    max-width: 200px; /* Set a maximum width for the profile picture */
+    border-radius: 50%; /* Make the profile picture round */
+    margin: 0 auto 10px; /* Center the profile picture and add spacing */
+  }
+  
+  h1 {
+    font-size: 32px; /* Increase font size for the name */
+  }
+  
+  /* Navigation Styles */
+  nav {
+    background-color: #007bff; /* Background color for the navigation bar */
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  nav li {
+    display: inline; /* Display list items horizontally */
+    margin-right: 20px; /* Add spacing between navigation items */
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff; /* Link text color */
+    font-weight: bold; /* Bold text for links */
+  }
+  
+  /* Main Content Styles */
+  main {
+    background-color: #fff; /* Background color for the main content area */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    font-size: 28px; /* Increase font size for section headings */
+    margin-bottom: 20px;
+  }
+  
+  .card {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Additional Styles (customize as needed) */
+  .lastupdated {
+    font-style: italic;
+    color: #777;
+  }
+  
+  /* Media Queries for Responsive Design (customize as needed) */
+  @media screen and (max-width: 768px) {
+    nav ul {
+      text-align: left;
+      padding-top: 10px;
+    }
+  
+    nav li {
+      display: block;
+      margin: 10px 0;
+    }
+  }
+  
