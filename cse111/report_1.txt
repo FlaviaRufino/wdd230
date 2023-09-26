@@ -1,0 +1,52 @@
+First Report for a Student Chosen Project
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2021-12-02      1.5     b. Researching by reading articles and watching applicable videos
+2023-07-17     20 m     c. Designed the structure of the program using flowcharts
+2023-07-18       1      d. Wrote experimental code to count words in a text file
+2023-07-19       1      d. Wrote code for the main program functions
+2023-07-20    30 m      e. Wrote test functions to verify the correctness of program functions
+2023-07-21    30 m      f. Debugged and fixed issues in the program
+
+2. Write the names of the functions in your program.
+Functions in My Program:
+count_words()
+read_file()
+remove_punctuation()
+calculate_word_frequency()
+display_word_frequency()
+main()
+
+3. Answer the following questions about the functions in your program.
+    a. Does each function perform a single task?
+Yes, each function in my program performs a single task. For example, the count_words() function counts the number of words, the read_file() function reads a file, the remove_punctuation() function removes punctuation from text, the calculate_word_frequency() function calculates the frequency of words, and the display_word_frequency() function displays the word frequency.
+
+    b. Does the name of each function describe or convey the task?
+Yes, the name of each function in my program describes or conveys its task. For example, the count_words() function conveys that it counts the number of words, the read_file() function indicates that it reads a file, the remove_punctuation() function suggests that it removes punctuation from text, the calculate_word_frequency() function implies that it calculates the frequency of words, and the display_word_frequency() function indicates that it displays the word frequency. The function names provide clear and concise information about what each function does in the program.
+
+    c. Do most of your program functions have parameters and return a result?
+Yes, most of my program functions have parameters and return a result. For example, the count_words() function takes a text parameter and returns the word count, the read_file() function takes a file name parameter and returns the file contents, and so on.
+
+4. Write the names of the test functions that you wrote to test your
+program functions.
+Test Functions for the program: 
+test_count_words()
+test_read_file()
+test_remove_punctuation()
+test_calculate_word_frequency()
+test_display_word_frequency()

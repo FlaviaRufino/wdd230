@@ -1,0 +1,15 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+I do not remember an exact situation when a saw the power of functions, but I remember when we were learning about functions in the very beginning and it was so clarifying and magic knowing that the programs could be simple, shorter, and easier. Coding it is a lot better using functions. 
+
+
+2. In your judgment, what is the value of test functions?
+Testing functions is very valuable because it makes the code works better and ensures that everything is working properly. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+One thing that I can do to improve my process is to write step by step of my code before starting coding, so I do not get lost or confused in the many tasks of each program.

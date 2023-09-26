@@ -1,0 +1,19 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+Functions are really powerful and in my opinion they keep the program well organized and reusable. 
+One example when I could see that was in the last project of this block because once a function is defined, it can be used multiple times throughout the program or even in other programs. 
+For instance, the calculate_word_frequency function can be used in different projects that require word frequency analysis without having to rewrite the logic each time.
+
+
+2. In your judgment, what is the value of test functions?
+Testing functions are very important, it really shows if our functions are readable, organized and working well. 
+Testing functions is the best way to ensure your program is working well and it is easy to understand. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+My process starts by indetifying the problem, cheking and reasearching for more information to correct it and after 
+check Inputs and Outputs: Verify that the inputs to the problematic code are correct and that the outputs match your expectations. Incorrect inputs or outputs could be a sign of a logical error.

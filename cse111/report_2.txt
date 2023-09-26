@@ -1,0 +1,29 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2023-16-07      2.0     d. writing experimental code
+2023-17-07      4.0     d. writing code for your project
+2023-18-07      2.5     e. writing test functions
+2023-19-07      2.5     e. writing test functions
+2023-20-07      3.0     f. debugging your code
+
+
+2. In I-Learn, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files.

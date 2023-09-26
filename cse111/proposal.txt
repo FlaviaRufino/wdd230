@@ -1,0 +1,35 @@
+CSE 111 Proposal for a Student Chosen Program
+
+1. What is the title of your program?
+The title of my program is "Word Frequency Counter". 
+
+2. What real-world problem will your program address or help to solve?
+The purpose of my program is analize text data by counting the frequency of each word in any text file. 
+This can be helpful in many different real world problems.
+Some examples are: detecting plagiarism or similarity in academic or professional documents, analyzing customer feedback to identify common themes or concerns and, many others.
+By counting word frequencies this program will provide support decision-making processes in various different important problems.  
+
+3. What will you learn from developing this program?
+From developing this program I will have the opportunity to read text files in Python, use strings and manipulate text data, 
+implementing dictionaries, reausable functions, writing test functions through pystest... I still planning and thinking about the project I will try to implement as much resources from my learning as possible. 
+
+4. What Python modules will your program use?
+The program will primarily utilize the following Python modules:
+os: To interact with the operating system and handle file operations.
+re: For regular expression matching and text manipulation if required.
+collections: To utilize the Counter class for efficient word counting.
+pytest: To write and execute test functions for various program functions.
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+Yes, I will separate the Python program into functions that perform single tasks. 
+By following the modular design approach, I will create reusable functions that accept parameters and return results. 
+This design will enhance code readability, maintainability, and testability. 
+While some functions may involve user input and printing results, the majority of functions will be designed for reusability and ease of testing.
+
+6. Will you write test functions to test at least two of your program
+functions?
+6.	Absolutely, I will write test functions to test at least two of the program functions. 
+By employing the pytest framework, I will be able to write comprehensive tests that verify the correctness of individual functions. 
+The tests will cover various scenarios and edge cases to ensure the program functions as intended. 
+The test functions will help identify and resolve any issues or bugs in the code, ensuring the program's reliability and accuracy.
