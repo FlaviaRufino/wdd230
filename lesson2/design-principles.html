@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Design Principles Web Page">
+    <style>
+        .grid-container {
+            box-sizing: border-box;
+            display: ruby-base-container;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+
+        .topic {
+            padding: 20px;
+            background-color: #0e0a0a;
+            border: 1px solid #0f0808;
+            text-align: center;
+            font-size: 18px;
+        }   
+    </style>
+    <title>Design Principles Web Page</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="styles/css.css">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/medium.css">
+    <link rel="stylesheet" href="styles/base.css">
+    <link rel="stylesheet" href="styles/small.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Design Principles Web Page</h1>
+        <h2>Flavia Santos Bezerra Rufino</h2>
+    </header>
+    <main>
+        <div class="grid-container">
+<div class="card">
+    <h2>PARC: Contrast</h2>
+    <p>Organization: Karmaloop Company</p>
+    <p><a href="https://www.karmaloop.com" target="_blank">Karmaloop Website</a></p>
+    <img src="images/karmaloop_contrast.jpg" alt="Mobile Screenshot for Contrast">
+    <p>The purpose of contrast is to show the viewer that two or more objects can be conflicted visually through different types of colour, content and size.
+       A good example that best represents PARC principles in all aspects is an online urban clothing website called "Karmaloop".
+       The home web page of karma loop demonstrates the proximity principle by hanging different types of clothing line in a way that the viewer or observer can perceive as the same group, in this case the same brand Michell & Ness but enough for the viewer to understand that they are all different and separate types and style of clothing.
+    </p>
+</div>
+
+<div class="card">
+    <h2>White Space and Clean Design</h2>
+    <p>Organization: Nike</p>
+    <p><a href="https://www.nike.com/ie" target="_blank">Nike Website</a></p>
+    <img src="images/nike_white_space.jpg" alt="Mobile Screenshot for Clean Design">
+    <p>White space is the area between design elements. It is also the space within individual design elements, including the space between typography glyphs (readable characters). Despite its name, white space does not need to be white. It can be any color, texture, pattern, or even a background image.</p>
+       Nike is a perfect model of company that use a lot of white spacing between pictures, elements and text.
+       In the case of the screenshot we can see how Nike use the white space in different ways. The white background on the text in a vibrant colorful picture emphasis the information in the text while on the bottom the white background drives more focus on the product.
+</div>
+
+<div class="card">
+    <h2>Visual Hierarchy</h2>
+    <p>Organization: Louis Vuitton</p>
+    <p><a href="https://en.louisvuitton.com/" target="_blank">Louis Vuitton Website</a></p>
+    <img src="images/louis_vuitton_hierarchy.jpg" alt="Mobile Screenshot for Visual Hierarchy">
+    <p>Hierarchy shows the difference in importance of the elements in a design. Colour and size are the most common ways we can create hierarchy — for instance, by highlighting a primary button, or using larger fonts for headings. Items that appear at the top of a page or app also tend to be viewed as having a higher hierarchy than those appearing below.
+       Louis Vuitton well represent hierarchy design in their website. In the screenshot it is not possible to see anything else besides a big picture of a woman holding a bag with the following text: "Timeless Iconic Bags". They drive your attention to their bags and their slogan, before anything else you could see.  
+    </p>
+</div>
+        
+    </main>
+    <footer>
+        <p>&copy; <span id="year"></span> | Flavia Santos Bezerra Rufino | Dublin - Ireland | <a href="http://www.byui.edu/online/" target="_blank">BYU-I Online Learning</a></p><br>
+        <p class="LastModified">Last Updated: <span id="updated"></span></p>
+        <script src="scripts/getdates.js"></script>
+    </footer>
+</body>
+</html>

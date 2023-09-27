@@ -1,0 +1,40 @@
+@import url('normalize.css');
+
+nav {
+  background-color: #007bff;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+  @media screen and (max-device-width:992px), screen and (max-width:992px) {
+    .100pc {
+    Width: 100%!important;
+    }
+    }
+  nav ul {
+    text-align: left;
+    padding-top: 10px;
+  }
+
+  nav li {
+    display: block;
+    margin: 10px 0;
+  }
+}
